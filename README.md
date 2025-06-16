@@ -16,8 +16,7 @@ Many businesses are interested in using conversational AI, but face strict data 
 - Avoid leaking proprietary information to external APIs
 - Deploy it across multiple office computers using simple IT scripts
 
-![dad68144-1e01-471a-bf08-dcf9609ca65d](https://github.com/user-attachments/assets/a069642d-2407-44a2-b373-52e18e63d365)
-
+![image](https://github.com/user-attachments/assets/73bbd867-627f-4f9b-aeb7-15528d0ffcb7)
 
 ---
 
