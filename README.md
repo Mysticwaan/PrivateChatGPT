@@ -1,6 +1,9 @@
+<div align="center" style="text-align: center;">
+    
 # 🧠 PrivateChatGPT: Secure In-House Conversational AI Using DeepSeek
 
 A fully offline, locally hosted AI chatbot powered by [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V2) or similar LLMs. Designed for organizations that want the benefits of ChatGPT **without the privacy risks** of sending internal data to external servers.
+---
 ![eb0b8d74-1961-49f5-9601-6d48183af9d5](https://github.com/user-attachments/assets/99015e0f-dce0-485c-9e24-71d833515dfd)
 
 ---
