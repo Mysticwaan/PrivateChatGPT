@@ -4,7 +4,8 @@
 
 A fully offline, locally hosted AI chatbot powered by [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V2) or similar LLMs. Designed for organizations that want the benefits of ChatGPT **without the privacy risks** of sending internal data to external servers.
 ---
-![eb0b8d74-1961-49f5-9601-6d48183af9d5](https://github.com/user-attachments/assets/99015e0f-dce0-485c-9e24-71d833515dfd)
+![image](https://github.com/user-attachments/assets/73bbd867-627f-4f9b-aeb7-15528d0ffcb7)
+
 
 ---
 
@@ -16,7 +17,6 @@ Many businesses are interested in using conversational AI, but face strict data 
 - Avoid leaking proprietary information to external APIs
 - Deploy it across multiple office computers using simple IT scripts
 
-![image](https://github.com/user-attachments/assets/73bbd867-627f-4f9b-aeb7-15528d0ffcb7)
 
 ---
 
