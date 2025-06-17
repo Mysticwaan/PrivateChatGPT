@@ -124,47 +124,25 @@ cd private-chatgpt\install
 
     Responds instantly with no internet usage
 
-🗂️ Example Use: Load Internal Docs
+## 🗂️ Example Use: Load Internal Docs
 
-Put your documents in:
+* Put your documents in:
 
-private-chatgpt/docs_to_index/
+  * `private-chatgpt/docs_to_index/`
+* The RAG module will automatically index and inject them into the context window during chat.
 
-The RAG module will automatically index and inject them into the context window during chat.
-📸 Screenshots
+## 📸 Screenshots
 
-Add screenshots or a demo GIF here.
-📅 Roadmap
+* Add screenshots or a demo GIF here.
 
-Basic offline chat
+## 📅 Roadmap
 
-Windows/Linux deployment
-
-Internal file indexing
-
-Simple speech-to-text (offline)
-
-More polished UI (Electron)
+* Basic offline chat
+* Windows/Linux deployment
+* Internal file indexing
+* Simple speech-to-text (offline)
+* More polished UI (Electron)
 
     Multi-language support
 
-📄 License
 
-MIT License
-🙋‍♂️ Contact / Hire Me
-
-Want to implement this in your company? Contact me via GitHub or [your email or portfolio link].
-🌐 Credits
-
-    DeepSeek AI
-
-    LLaMA.cpp
-
-    Gradio
-
-    LlamaIndex
-
-
----
-
-Let me know if you want to auto-generate the initial code and scripts — I can give you a `main.py`, `document_loader.py`, or even a basic `Streamlit`/`Gradio` UI to get started.
