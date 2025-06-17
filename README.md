@@ -131,10 +131,6 @@ cd private-chatgpt\install
   * `private-chatgpt/docs_to_index/`
 * The RAG module will automatically index and inject them into the context window during chat.
 
-## 📸 Screenshots
-
-* Add screenshots or a demo GIF here.
-
 ## 📅 Roadmap
 
 * Basic offline chat
