@@ -70,24 +70,27 @@ This project includes tools familiar to any IT support or sysadmin role:
 
 ## 📁 File Structure
 
+```
 private-chatgpt/
 │
-├── README.md
-├── LICENSE
-├── install/
-│   ├── windows_installer.ps1
-│   └── linux_installer.sh
-├── chatbot_ui/
-│   └── app.py
-├── backend/
-│   ├── inference_engine.py
-│   ├── document_loader.py
-│   └── rag_retriever.py
-├── config/
-│   └── settings.yaml
-├── docs/
-│   └── architecture_diagram.png
-└── requirements.txt
+├── README.md                 # Project overview and usage instructions
+├── LICENSE                   # License information
+├── install/                  # Installation scripts
+│   ├── windows_installer.ps1    # Windows installation script
+│   └── linux_installer.sh       # Linux installation script
+├── chatbot_ui/              # Frontend UI application
+│   └── app.py                   # Streamlit or Flask UI for chat
+├── backend/                 # Backend logic and RAG pipeline
+│   ├── inference_engine.py      # Handles model inference
+│   ├── document_loader.py       # Loads and preprocesses documents
+│   └── rag_retriever.py         # Retrieves relevant documents for answers
+├── config/                  # Configuration files
+│   └── settings.yaml            # YAML config for parameters and paths
+├── docs/                    # Project documentation
+│   └── architecture_diagram.png # System architecture diagram
+└── requirements.txt         # Python dependencies
+```
+
 
 
 ---
